@@ -452,3 +452,43 @@ Processing by PagesController#profile as HTML
 Completed 200 OK in 40ms (Views: 38.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/profile" for 127.0.0.1 at 2017-07-24 12:54:14 -0500
+Processing by PagesController#profile as HTML
+  Rendering pages/profile.html.erb within layouts/application
+  Rendered pages/profile.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 40ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2017-07-24 12:54:23 -0500
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 43ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/profile" for 127.0.0.1 at 2017-07-24 12:54:30 -0500
+Processing by PagesController#profile as HTML
+  Rendering pages/profile.html.erb within layouts/application
+  Rendered pages/profile.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 57ms (Views: 54.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2017-07-24 12:54:38 -0500
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 46ms (Views: 44.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/profile" for 127.0.0.1 at 2017-07-24 12:55:13 -0500
+Processing by PagesController#profile as HTML
+  Rendering pages/profile.html.erb within layouts/application
+  Rendered pages/profile.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 45ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
